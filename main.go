@@ -17,7 +17,7 @@ package main
 
 import "github.com/modernix/ssm-loader-go/cmd"
 
-//import "ssm-loader/cmd"
+//import "ssm-loader-go/cmd"
 
 func main() {
 	cmd.Execute()
